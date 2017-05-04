@@ -22,8 +22,8 @@
 #include<time.h>
 #include<stdio.h>
 #include "time.c"
-#include<alloc.h>
-#include<stdlib.h>
+#include "alloc.h"
+#include "stdlib.h"
 
 #define UP 72 
 #define DOWN 80 
